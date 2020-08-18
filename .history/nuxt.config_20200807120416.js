@@ -29,7 +29,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: ['ress', '~/assets/css/foundation.scss'],
+  css: [],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
